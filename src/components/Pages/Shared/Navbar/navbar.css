@@ -11,11 +11,11 @@
     transform: scale(1.1);
 }
 
-.home{
+.color{
     transition: 1s;
     cursor: pointer;
 }
-.home:hover{
+.color:hover{
     color: #2f80ed;
 }
 .catalog{
@@ -49,6 +49,15 @@
 
 }
 .dot:hover{
+    color: #2f80ed;
+}
+
+.login{
+    transition: 1s;
+    cursor: pointer;
+
+}
+.login:hover{
     color: #2f80ed;
 }
 

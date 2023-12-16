@@ -1,10 +1,10 @@
 
-const Signup = () => {
+const Home = () => {
     return (
         <div className="text-white">
-            signup
+            this is home
         </div>
     );
 };
 
-export default Signup;
+export default Home;
