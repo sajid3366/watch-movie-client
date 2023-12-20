@@ -1,8 +1,11 @@
+import Movies from "./Movies";
+import UpperSlider from "./UpperSlider";
 
 const Home = () => {
     return (
-        <div className="text-white">
-            this is home
+        <div>
+            <UpperSlider></UpperSlider>
+            <Movies></Movies>
         </div>
     );
 };

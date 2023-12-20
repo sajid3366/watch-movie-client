@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "movieTitle": "The Enigmatic Echo",
+      "genre": "Mystery",
+      "year": 2019,
+      "image": "https://example.com/images/enigmatic_echo.jpg",
+      "type": "free"
+    },
+    {
+      "id": 2,
+      "movieTitle": "Galactic Guardians",
+      "genre": "Science Fiction",
+      "year": 2022,
+      "image": "https://example.com/images/galactic_guardians.jpg",
+      "type": "free"
+    },
+    {
+      "id": 3,
+      "movieTitle": "Melody of Love",
+      "genre": "Romance",
+      "year": 2016,
+      "image": "https://example.com/images/melody_of_love.jpg",
+      "type": "free"
+    },
+    {
+      "id": 4,
+      "movieTitle": "Timeless Adventure",
+      "genre": "Action",
+      "year": 2021,
+      "image": "https://example.com/images/timeless_adventure.jpg",
+      "type": "free"
+    },
+    {
+      "id": 5,
+      "movieTitle": "Whispers the Wind",
+      "genre": "Fantasy",
+      "year": 2018,
+      "image": "https://example.com/images/whispers_in_the_wind.jpg",
+      "type": "free"
+    },
+    {
+      "id": 6,
+      "movieTitle": "Laugh Out Loud",
+      "genre": "Comedy",
+      "year": 2020,
+      "image": "https://example.com/images/laugh_out_loud.jpg",
+      "type": "free"
+    },
+    {
+      "id": 7,
+      "movieTitle": "Chronicles of Chaos",
+      "genre": "Drama",
+      "year": 2017,
+      "image": "https://example.com/images/chronicles_of_chaos.jpg",
+      "type": "free"
+    },
+    {
+      "id": 8,
+      "movieTitle": "Echoes of Eternity",
+      "genre": "Thriller",
+      "year": 2023,
+      "image": "https://example.com/images/echoes_of_eternity.jpg",
+      "type": "free"
+    }
+  ]
+  
